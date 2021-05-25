@@ -1,2 +1,4 @@
-# test2
+# example
+
+i am learning how to use git
  
